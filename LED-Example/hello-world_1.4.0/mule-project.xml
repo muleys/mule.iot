@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<mule-project xmlns="http://www.mulesoft.com/tooling/project" runtimeId="org.mule.tooling.server.3.8.2.ee" schemaVersion="3.5.0.0">
+    <name>hello-world_1.4.0</name>
+    <description></description>
+    <muleExtension name="Blink(1)" qualifier="org.mule.tooling.ui.contribution.blink1"/>
+</mule-project>
